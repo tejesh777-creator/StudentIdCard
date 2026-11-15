@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student ID Card Generator
 A Python Tkinter desktop app that creates printable student ID cards (front + back).
 
@@ -30,3 +31,6 @@ backend/exporter.py       PNG / PDF / bulk export
 frontend/app.py           Tkinter UI (sidebar + 5 screens)
 tests/test_cards.py       unit tests
 ```
+=======
+# StudentIdCard
+>>>>>>> origin/main
